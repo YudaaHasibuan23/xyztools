@@ -17,10 +17,10 @@ clear
    echo -e "\033[31m$(figlet -f Remo773 "Sahur Spam")\e[0m"
    echo
    echo -e $kuning" ╔═══════════════════════════════════════════════╗"
-   echo -e $kuning" ║"   "\033[1;36mAuther    : MisterAM                      "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mTeam      : Dark Cyber                    "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mChanel YT : MisterAM                      "$kuning"    ║"
-   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/Mister-AM  "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mAuther    : xyz                      "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mTeam      : !                    "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mChanel YT : !                      "$kuning"    ║"
+   echo -e $kuning" ║"   "\033[1;36mGithub    : https://github.com/XYz122/xyztools  "$kuning"    ║"
    echo -e $kuning" ╚═══════════════════════════════════════════════╝"
 
    echo -e $putih "╔════════════════════════╗"
